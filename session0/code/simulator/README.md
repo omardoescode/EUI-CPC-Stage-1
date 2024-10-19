@@ -42,9 +42,9 @@ In complexity analysis, we are concerned with how the growth of input affect the
 
 In this experiment, run each code in with different values of input size (referred to as `n`) and observe the change in output time.
 
-1. `n=100`
-2. `n=1000`
-3. `n=10000`
+1. `n=10000`
+2. `n=100000`
+3. `n=1000000`
 
 # Findings
 
