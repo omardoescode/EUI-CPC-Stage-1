@@ -5,10 +5,11 @@ using namespace std;
 int main() {
   int TC;
   cin >> TC;
+  cin.ignore();
   while (TC--) {
 
     string str;
-    cin >> str;
+    getline(cin, str);
     stack<char> st;
 
     // if opening, put in stack
